@@ -1,3 +1,4 @@
+For Windows : 
 1. Download C# extensions. Then download and Install Dotnet. If you see VS Code giving you popup to install dotnet open it and install dotnet
 2. Then in the folder run : "dotnet new console" then run : "dotnet restore"
 3. Open automatically created Program.cs file and paste this code : 
