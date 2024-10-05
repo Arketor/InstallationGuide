@@ -1,0 +1,10 @@
+For Windows : 
+
+Installation : Take a look at this : https://code.visualstudio.com/docs/languages/cpp
+
+Steps : 
+
+1. Install C/C++ extensions
+2. Install gcc/g++ Compiler
+3. Save Environment Path variable with mingw install location : Generally it would be : C:\msys64\ucrt64\bin
+4. create simple program and compile it with g++ programname.cpp and run with ./a.exe
