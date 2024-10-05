@@ -1,0 +1,11 @@
+Windows : 
+Follow this : https://code.visualstudio.com/docs/languages/python. While installing check the set Environment PATH variable
+If need install Python from Microsoft Store also.
+
+create python file with code
+print("SHIahjdsfbhjasd")
+
+then run 
+
+python3 --version
+python3 .\a.py
