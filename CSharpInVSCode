@@ -1,0 +1,17 @@
+1. Download C# extensions. Then download and Install Dotnet. If you see VS Code giving you popup to install dotnet open it and install dotnet
+2. Then in the folder run : "dotnet new console" then run : "dotnet restore"
+3. Open automatically created Program.cs file and paste this code : 
+
+using System;
+namespace abc{
+class Program
+{
+	public static void Main(string[] args)
+	{
+		Console.WriteLine("Hellaao");
+	}
+}
+
+}
+
+then run "dotnet build" and then "dotnet run" to execute the program
