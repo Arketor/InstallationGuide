@@ -1,0 +1,12 @@
+Follow this : https://code.visualstudio.com/docs/java/java-tutorial : simply refer this section : Coding Pack for Java
+
+public class test1 {
+    public static void main(String[] args) {
+        System.out.println("Hello, Rock");
+        System.out.println("Goodbye, World");
+    }
+}
+
+
+Compile using : javac test1.java
+Then run using : java test1
